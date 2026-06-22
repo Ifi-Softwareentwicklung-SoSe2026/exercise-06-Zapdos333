@@ -74,3 +74,7 @@ obj/
 *.csv
 *.json
 !.github/classroom-agent.json
+
+# rider
+.idea
+/exercise-06-Zapdos333.slnx
